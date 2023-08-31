@@ -5,4 +5,4 @@
 - I love Data Science
 - I love Computer Science
 - I love GitHub
-- ''' I love everything about CS193
+- I love everything about CS193

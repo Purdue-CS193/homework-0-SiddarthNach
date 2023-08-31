@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-![Image]((https://github.com/Purdue-CS193/homework-0-SiddarthNach/assets/142948318/bb3402f5-f4f1-467e-9abe-32dbe139c1eb)
+![Image](https://images.nintendolife.com/c5b944549291a/squirtlesquad.large.jpg)
 
 
 [Link](url) and ![Image](src)

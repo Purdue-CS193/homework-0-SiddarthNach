@@ -12,14 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ### **Hi this is Siddarth's Github Page!**
-## Header 2
-### Header 3
+## --I like Bananas
+### --I like Strawberries
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 ![Image](https://images.nintendolife.com/c5b944549291a/squirtlesquad.large.jpg)
 

@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ### **Hi this is Siddarth's Github Page!**
-## --I like Bananas
-### --I like Strawberries
+## I like Bananas
+### I like Strawberries
 
 
 ![Image](https://images.nintendolife.com/c5b944549291a/squirtlesquad.large.jpg)
